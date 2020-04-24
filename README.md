@@ -10,10 +10,7 @@ username/password and if he is a user then redirect him/her to main activity.
 4.	ResetPasswordActivity:  Reset Password activity consist of EditTexts  for email and a reset button.
 
 
-Screenshots:
 
-            –                                     
 
- 
-                              
+
 
